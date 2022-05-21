@@ -1,0 +1,3 @@
+C:/Users/DarkTiger N/Desktop/WordNet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DarkTiger N/Desktop/WordNet/cmake-build-debug/CMakeFiles/Speed.dir
+C:/Users/DarkTiger N/Desktop/WordNet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
